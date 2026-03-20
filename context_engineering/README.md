@@ -1,4 +1,4 @@
-# Context Engineering with AWS Strands Agents
+# Context Engineering with AWS Strands Agents Framework
 
 > A hands-on Python project that demonstrates the four fundamental context engineering techniques — **WRITE, SELECT, COMPRESS, ISOLATE** — using the [AWS Strands Agents](https://github.com/strands-agents/sdk-python) framework.
 
