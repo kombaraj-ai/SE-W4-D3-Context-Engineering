@@ -45,9 +45,9 @@ When you call an LLM API, you do not just send the latest message — you resend
 ┌────────────────────────────────────────────────────────────┐
 │                    CONTEXT WINDOW (8 K)                    │
 │                                                            │
-│  [System Prompt] [Turn 1] [Turn 2] ... [Turn N] [Query]   │
+│  [System Prompt] [Turn 1] [Turn 2] ... [Turn N] [Query]    │
 │                                                            │
-│  Every token above is paid for. Context engineering       │
+│  Every token above is paid for. Context engineering        │
 │  decides WHICH tokens to include and HOW to represent them.│
 └────────────────────────────────────────────────────────────┘
 ```
@@ -523,8 +523,8 @@ python main_demo.py --demo 3,4
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                   DEMO 1 · WRITE                        ║
-║           Context Creation and Token Tracking           ║
+║                   DEMO 1 · WRITE                         ║
+║           Context Creation and Token Tracking            ║
 ╚══════════════════════════════════════════════════════════╝
 
   Context window limit: 8,000 tokens
