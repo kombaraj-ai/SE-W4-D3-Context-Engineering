@@ -1,0 +1,11 @@
+{
+  "aws_region": "us-east-1",
+  "model_id": "us.amazon.nova-pro-v1:0",
+  "max_tokens": 2048,
+  "context_window_limit": 8000,
+  "demo_settings": {
+    "show_token_bars": true,
+    "bar_width": 40,
+    "verbose": false
+  }
+}
