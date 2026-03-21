@@ -10,7 +10,7 @@
 ### Table of Contents
 
 1. [What Is Context Engineering?](#1-what-is-context-engineering)
-2. [Why It Matters](#2-why-it-matters)
+2. [Why It Matters?](#2-why-it-matters)
 3. [Project Architecture](#3-project-architecture)
 4. [Prerequisites](#4-prerequisites)
 5. [Setup](#5-setup)
